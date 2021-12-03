@@ -24,10 +24,8 @@ distance=np.sqrt(((p1[0]-p2[0])**2)+((p1[1]-p2[1])**2))
 
 print("{:.2f}".format(distance))#Program to find the distance between two points.
 
-  
-
-
 ### OUTPUT:
-
+![output](https://github.com/naramala-niharika/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(27).png?raw=true)
 
 ### RESULT:
+Thus distance between two points are executed
